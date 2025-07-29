@@ -19,4 +19,4 @@
 - [Laravel](https://laravel.com/) — PHP framework
 - Blade — Laravel template system
 - SQLite / MySQL — database (default SQLite)
-- Bootstrap — for interface styling
+- Tailwind — for interface styling
